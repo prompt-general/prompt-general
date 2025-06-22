@@ -12,4 +12,4 @@ I create tools where thought becomes structure and language becomes architecture
 ---
 
 🌐 Website: https://github.com/prompt-general  
-🔗 Part of the [Multiverse GitHub Strategy(https://github.com/MastercCaleb254)]
+🔗 Part of the [Multiverse GitHub Strategy(https://github.com/MasterCaleb254)]
